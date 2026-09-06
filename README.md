@@ -5,10 +5,13 @@ My Python learning journey through CS50.
 
 ## Progress
 
-- [x] Week 0 — Basics
-- [x] Week 1 — Conditionals
-- [ ] Week 2 — Loops
-- [ ] Week 3 — Exceptions
+## Progress
+
+- ✅ Week 0 – Functions & Variables
+- ✅ Week 1 – Conditionals
+- ✅ Week 2 – Loops
+- ✅ Week 3 – Exceptions
+- 🔄 Week 4 – Libraries
 - [ ] Week 4 — Libraries
 - [ ] Week 5 — Unit Tests
 - [ ] Week 6 — File I/O
