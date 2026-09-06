@@ -1,9 +1,6 @@
 # cs50-python-journey
-# CS50 Python Journey
 
 My Python learning journey through CS50.
-
-## Progress
 
 ## Progress
 
@@ -11,7 +8,6 @@ My Python learning journey through CS50.
 - ✅ Week 1 – Conditionals
 - ✅ Week 2 – Loops
 - ✅ Week 3 – Exceptions
-- 🔄 Week 4 – Libraries
 - [ ] Week 4 — Libraries
 - [ ] Week 5 — Unit Tests
 - [ ] Week 6 — File I/O
